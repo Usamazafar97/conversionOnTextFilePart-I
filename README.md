@@ -1,5 +1,5 @@
 # conversionOnTextFile
- This Program first find the data and convert them to either uppercase or  replace the text with some other text based on the user choice
+ This Program first find the data and convert them to either uppercase or  replace the text with some other text based on the user choice on COMMAND LINE INTERFACE
 
  Write a command line program that performs conversions on a text file.
  
